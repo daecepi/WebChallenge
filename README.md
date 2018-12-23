@@ -1,6 +1,8 @@
 Como se me dijo que el puesto a aspirar el era para Angular, NodeJS, MongoDB y Bases de dato relacionales
 decid� realizar el proyecto con estos elementos.
 
+(Todo corriendo por separado en un computador funciona)
+
 El sistema esta realizado bajo una arquitectura por capas: donde la persistencia y muchas
 potilicas de los datos est�n puestas, el servidor restful (en node) y a parte del aplicativo
 web (en Angular Material) ideal para un servidor de archivos estaticos (que puede o no a�adirse
@@ -26,3 +28,4 @@ NO SE ALCANZ�
 *Aplicar los data-table con las estructuras de las entidades
 *Encriptar con Vcript informaci�n de login
 *Crear la tabla para el administrador (se crearon credenciales dentro del algoritmo del servidor)
+*Union del dist folder de angular dentro de Node
